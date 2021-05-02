@@ -18,8 +18,8 @@ python manage.py migrate
 python manage.py runserver
 ```
 ## Screenshots of the blog application:
-* ![Adding blog post](static/img/add-post-blog-django.png)
+![Adding blog post](static/img/add-post-blog-django.png)
   
-* ![Blog Lists](static/img/blog-list-django.png)
+![Blog Lists](static/img/blog-list-django.png)
 
-* ![Blog Detail](static/img/blog-detail-django.png)
+![Blog Detail](static/img/blog-detail-django.png)
