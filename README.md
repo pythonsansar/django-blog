@@ -6,7 +6,7 @@ __This is the example for the project discussed in the blog post: [How to Create
 
 ## To run this project follow these steps:
 ```javascript
-git clone https://github.com/thecodefires/django-blog.git
+git clone https://github.com/pythonsansar/django-blog.git
 ```
 ```python
 pip install -r requirements.txt
