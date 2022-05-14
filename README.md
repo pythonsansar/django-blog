@@ -1,5 +1,5 @@
 # Creating a Blog Application using Django
-__This is the example for the project discussed in the blog post: [How to Create a Blog Application Using Django](https://codefires.com/how-create-blog-application-using-django/)__
+__This is the example for the project discussed in the blog post: [How to Create a Blog Application Using Django](https://pythonsansar.com/how-create-blog-application-using-django/)__
 
 ![How to Create a Blog Application Using Django
 ](static/img/how-create-blog-application-using-django.gif)
